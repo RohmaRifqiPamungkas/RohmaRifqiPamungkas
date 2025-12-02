@@ -11,13 +11,26 @@
 ---
 
 ### 🚀 About Me
-
-- 🎓 Graduated from *Universitas Amikom Yogyakarta*
-- 🌱 Currently learning *Laravel, React, MongoDB*
-- 💬 Ask me about *Backend Development, REST API, Laravel Tips*
-- 📫 Reach me via [Email](mailto:rohmarifqi31@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/pamungkasrifqi)
-- 📸 Sometimes I post on [Instagram](https://instagram.com/pamungkasrifqi_)
-
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Graduated from *Universitas Amikom Yogyakarta*</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://my-portfolio-git-main-rohmarifqipamungkas-projects.vercel.app" target="_blank"><strong>Portfolio</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:rohmarifqi31@gmail.com"><strong>rohmarifqi31@gmail.com</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>real-time data apps for international sports</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
+  </li>
+</ul>
 ---
 
 ### 🧰 Tech Stack
