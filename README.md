@@ -14,7 +14,7 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Graduated from *Universitas Amikom Yogyakarta*</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Graduated from <strong></strong>Universitas Amikom Yogyakarta</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://my-portfolio-git-main-rohmarifqipamungkas-projects.vercel.app" target="_blank"><strong>Portfolio</strong></a>
@@ -32,7 +32,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
   </li>
 </ul>
----
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> My Technical Skills</div>
 
